@@ -1,7 +1,7 @@
 
 ```
 ┌─────────────╖
-│PseudoPenpCOM║
+│PseudoPen.COM║
 ╘═════════════╝
 ```
 
