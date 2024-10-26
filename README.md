@@ -15,6 +15,7 @@ Here are some specific benefits of PseudoPen:
 - Provides a text-based alternative to GUIs, useful for server management and network configuration.
 - Enables the creation of simple data tables, timelines, and organizational charts to explain data structures or relationships, especially valuable for legacy systems reliant on text interfaces.
 - Version control-friendly and integrate well with version control systems (e.g., Git), allowing for easy tracking of changes and collaboration between team members.
+- It is online, no need to download or istall anything.
 
 In sum, PseudoPen is ideal for anyone working in text-based environments or seeking accessible, low-resolution visuals.
 
