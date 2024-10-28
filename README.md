@@ -6,7 +6,7 @@
 ```
 https://pseudopen.com 
 
-PseudoPen is highly compatible with any text-based environment, making it ideal for terminals, coding environments, and systems that lack graphic support. It’s efficient and lightweight, as it doesn’t require graphics libraries, making it suitable for low-resource environments. PseudoPen renders consistently across platforms, from modern systems to legacy devices that support Unicode, ensuring wide accessibility. This allows users to represent ideas visually without images, improving accessibility for screen readers and search engines. Using limited symbols encourages creative problem-solving, often leading to cleaner, more efficient designs.
+PseudoPen is highly compatible with any text-based environment, making it ideal for terminals, coding environments, and systems that lack graphic support. It’s efficient and lightweight, as it doesn’t require graphics libraries, making it suitable for low-resource environments. PseudoPen renders consistently across platforms, from modern systems (just seletc monospace font) to legacy devices that support Unicode, ensuring wide accessibility. This allows users to represent ideas visually without images, improving accessibility for screen readers and search engines. Using limited symbols encourages creative problem-solving, often leading to cleaner, more efficient designs.
 
 Here are some specific benefits of PseudoPen:
 
