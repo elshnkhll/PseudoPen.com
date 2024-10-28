@@ -19,4 +19,8 @@ Here are some specific benefits of PseudoPen:
 
 In sum, PseudoPen is ideal for anyone working in text-based environments or seeking accessible, low-resolution visuals.
 
+https://en.wikipedia.org/wiki/Box-drawing_characters
+
+
+
 
