@@ -25,15 +25,9 @@ Here are some specific benefits of PseudoPen:
 In sum, PseudoPen is ideal for anyone working in text-based environments or seeking accessible, low-resolution visuals.
 
 
+https://en.wikipedia.org/wiki/Box-drawing_characters
 
-
-==References==
-{{reflist|refs=
-<ref name="Unicode_BoxDrawing">[http://unicode.org/charts/PDF/U2500.pdf Box Drawing U+2500-U+257F], The Unicode Standard Code Charts</ref>
-<ref name="Plus3CPM">{{cite book |title=Spectrum +3 CP/M Plus manual |chapter=Appendix II: CP/M Plus character sets / II.1 The complete character set (Language 0) |chapter-url=http://www.worldofspectrum.org/Plus3CPMManual/appendix2.html |type=User Manual |access-date=2017-07-10 |url-status=live |archive-url=https://web.archive.org/web/20091015151318/http://www.worldofspectrum.org/Plus3CPMManual/appendix2.html |archive-date=2009-10-15}} [http://k1.spdns.de/Vintage/Sinclair/86/ZX%20Spectrum%2B3/ZX%20Spectrum%2B3%20CP%3AM%20Manual/appendix2.html]</ref>
-}}
-
-
+PS: Feel free to drop an opinion or file a bug in "Issues". Bounty fund exist for best ones.
 
 
 
